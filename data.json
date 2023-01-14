@@ -32,7 +32,7 @@
                     },
                     {
                         "ID":3,
-                        "name":"Peeper",
+                        "name":"Cá chà bặc",
                         "category":"Common",
                         "size":31,
                         "sell":200,
@@ -94,7 +94,7 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Peeper",
+                        "name":"Cá chà bặc",
                         "category":"Common",
                         "size":31,
                         "sell":200,
@@ -164,7 +164,7 @@
                     },
                     {
                         "ID":4,
-                        "name":"Peeper",
+                        "name":"Cá chà bặc",
                         "category":"Common",
                         "size":31,
                         "sell":200,
@@ -426,7 +426,7 @@
                     },
                     {
                         "ID":6,
-                        "name":"Peeper",
+                        "name":"Cá chà bặc",
                         "category":"Common",
                         "size":31,
                         "sell":200,
@@ -586,7 +586,7 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Arctic Cá chà bặc",
                         "category":"Common",
                         "size":34,
                         "sell":200,
@@ -632,7 +632,7 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Arctic Cá chà bặc",
                         "category":"Common",
                         "size":34,
                         "sell":200,
@@ -678,7 +678,7 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Arctic Cá chà bặc",
                         "category":"Common",
                         "size":34,
                         "sell":200,
@@ -926,7 +926,7 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"Arctic Peeper",
+                        "name":"Arctic Cá chà bặc",
                         "category":"Common",
                         "size":34,
                         "sell":200,
